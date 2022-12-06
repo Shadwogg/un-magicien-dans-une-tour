@@ -1,0 +1,29 @@
+Elements ;
+
+Feu, glace, vent, poison | malediction, nature | darkness, light
+
+
+Feu = ATTAQUE ; DEGATS SCALE SUR L'ATTAQUE 
+Glace = UTILITAIRE ; SLOW, CREATION DE TERRAIN
+Vent = UTILITAIRE ; BUFFS, REPOUSSEMENT
+Poison = ATTAQUE ; Degats en dot en pv max
+
+Malediction = applique l'etat maudit ; subit plus de degats de la malediction et execute pour certains mobs
+Nature = defense/soin
+
+----ults-----
+darkness = 
+light =
+-------------
+
+mana
+Sort :
+
+
+Fonctionnalite :
+ - le player apprend les sorts avec des parchemins
+ - Grace a la puissance de la pierre de pouvoir, le player peut save sa progression tout les 25 etages
+
+HISTOIRE
+
+voir avec l'histoire manager
