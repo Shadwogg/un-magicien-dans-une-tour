@@ -11,9 +11,9 @@ Poison = ATTAQUE ; Degats en dot en pv max
 Malediction = applique l'etat maudit ; subit plus de degats de la malediction et execute pour certains mobs
 Nature = defense/soin
 
-----ults-----
-darkness = 
-light =
+----ults / alignements-----
+darkness = invocation (necromancie) / aoe souffle de l'ombre / 
+light = soin-buff / purification / 
 -------------
 
 mana
